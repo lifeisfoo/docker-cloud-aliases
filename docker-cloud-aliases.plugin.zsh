@@ -1,1 +1,1 @@
-. ${0:h}/docker-clous-aliases.sh
+. ${0:h}/docker-cloud-aliases.sh
