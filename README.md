@@ -27,4 +27,4 @@ otherwise you should use the `.` command to source the alias file.
 
 ## Available aliases
 
-See [docker-cloud-aliases.sh](/blob/master/docker-cloud-aliases.sh).
+See [docker-cloud-aliases.sh](/docker-cloud-aliases.sh).
